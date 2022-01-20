@@ -1,0 +1,163 @@
+body {
+  background: orange;
+  
+}
+
+h1 {
+text-align: center;
+
+color: white;
+
+text-transform: uppercase;
+
+font-family: 'Sriracha', cursive;
+
+}
+
+
+main{
+
+
+background-color: #A1E5F9
+
+
+}
+
+a {
+
+display: inline;
+border:  black 2px solid;
+}
+
+section.a{
+
+background-color: #3733FF;
+border-top: blue 10px;
+width
+
+
+}
+
+section.b{
+
+background-color: white;
+border-top:;
+width
+
+
+}
+
+section.c{
+
+
+
+background-color: red;
+
+
+}
+section.d{
+
+
+
+background-color: #A1E5F9;
+
+
+}
+
+section.e{
+
+background-color: #FF7461;
+text-align: center;
+font-weight:bold;
+}
+
+section.productos{
+
+background-color: orange;
+
+
+}
+
+
+
+img.steve{
+float:left ;
+width: 200px;
+height: 200px;
+
+}
+
+img.maci{
+float:right ;
+width: 200px;
+height: 200px;
+
+display: inline;
+}
+
+p.pa{
+
+background-color: white;
+color: blue;
+display: inline;
+
+}
+
+p.pc{
+background-color: #A1E5F9;
+color:red;
+
+
+}
+
+p.bottom{
+font-weight:bold;
+text-align: center;
+display: inline;
+position:center;
+
+}
+
+p.bottoma{
+font-weight:bold;
+background-color: yellow;
+text-align: center;
+display: inline;
+position:center;
+}
+
+p.bottomb{
+font-weight:bold;
+text-decoration:line-through;
+text-align: center;
+display: inline;
+position:center;
+}
+
+
+
+h2.productos{
+background-color: orange;
+font-weight:bold;
+
+}
+
+
+br.bra{
+
+background-color: white;
+
+
+}
+
+br.brb{
+
+background-color: #3733FF;
+
+}
+
+ul{
+list-style-type: hiragana;
+background-color: #FFFFE0;
+
+}
